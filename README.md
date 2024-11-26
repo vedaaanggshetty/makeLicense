@@ -1,16 +1,7 @@
 > CLI tool for generating Licenses. Easily.
-
-<br>
+<!-- <br>
 <p align="center"><img src="demo.gif" width="640" height="400"></p>
-<br>
-
-## Stay Tuned :star: :star: :star: :star: :star: 
-
-v. `1.0` is coming!
-
-* `mklicense` will behave like an old school text-based game, to drive you to which license suits best for your project (thanks [Jerod Santo](https://github.com/jerodsanto) for the idea). But still keeping its value as-is, behaving like a straight-to-the-point tool.
-
-
+<br> -->
 ## Why should I use this?
 
 * Licenses are boring;
