@@ -41,9 +41,3 @@ Since its version 0.1.4, `mklicense` needs `Node` version `>=4` to run properly.
 ## You talk about trust. So, where are all the licenses located?
 
 `mklicense` extracts licenses from http://choosealicense.com/ (which is [curated by GitHub](http://choosealicense.com/about/)), and creates a `.txt` file for your desired project. I have no control over any license, which is a good thing for you and me.
-
-
-## License
-
-MIT © [Cezar Augusto](http://cezaraugusto.net)
->>>>>>> b384fb9 (Initial commit or update)
