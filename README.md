@@ -1,8 +1,3 @@
-<<<<<<< HEAD
-# makeLicense
-=======
-# mklicense [![MIT license](https://img.shields.io/badge/mit-license-orange.svg)](https://opensource.org/licenses/MIT) [![Travis](https://img.shields.io/travis/cezaraugusto/mklicense.svg)](http://github.com/cezaraugusto/mklicense) [![npm](https://img.shields.io/npm/dt/mklicense.svg?maxAge=2592000)](https://www.npmjs.com/package/mklicense)
-
 > CLI tool for generating Licenses. Easily.
 
 <br>
