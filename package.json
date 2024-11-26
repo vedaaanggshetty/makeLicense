@@ -1,0 +1,52 @@
+{
+  "name": "mklicense",
+  "version": "0.1.5",
+  "description": "CLI tool for building Licenses files. Easily.",
+  "license": "MIT",
+  "repository": "cezaraugusto/mklicense",
+  "author": {
+    "name": "Cezar Augusto",
+    "email": "cezaraugusto@outlook.it",
+    "url": "cezaraugusto.net"
+  },
+  "engines": {
+    "node": ">=4.0"
+  },
+  "bin": {
+    "mklicense": "./mklicense.js"
+  },
+  "scripts": {
+    "test": "standard mklicense.js",
+    "snyk-protect": "snyk protect",
+    "prepare": "npm run snyk-protect"
+  },
+  "files": [
+    "mklicense.js"
+  ],
+  "keywords": [
+    "cli",
+    "tool",
+    "license",
+    "licenses",
+    "public domain",
+    "nonlicense",
+    "unlicense",
+    "mit",
+    "apache",
+    "mpl",
+    "gpl",
+    "lgpl",
+    "agpl"
+  ],
+  "dependencies": {
+    "cli-spinner": "^0.2.5",
+    "git-user-name": "^2.0.0",
+    "inquirer": "^6.3.1",
+    "jsdom": "^15.1.1",
+    "snyk": "^1.996.0"
+  },
+  "devDependencies": {
+    "standard": "^14.1.0"
+  },
+  "snyk": true
+}
